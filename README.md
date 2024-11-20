@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aravindgopan-dev&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aravindgopan-dev&theme=shadow_blue&hide_border=false" alt="GitHub Streak"><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aravindgopan-dev&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"><br/>
-</p>
+
 
 <h2 align="center">💫 Aravind Gopan</h2>
 
@@ -61,9 +57,15 @@
 </p>
 
 <h3 align="center">✨ My Interests</h3>
-<p align="center">AI | React | TypeScript | Web Development | Cloud | DevOps | Data Science | Problem Solving</p>
+<p align="center"> Python | React | TypeScript | Next | AWS | DevOps | Node | Problem Solving</p>
 
 <h3 align="center">📫 How to reach me:</h3>
 <p align="center">
   <a href="mailto:aravindgopan.dev@gmail.com">aravindgopan.dev@gmail.com</a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aravindgopan-dev&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aravindgopan-dev&theme=shadow_blue&hide_border=false" alt="GitHub Streak"><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aravindgopan-dev&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"><br/>
 </p>
